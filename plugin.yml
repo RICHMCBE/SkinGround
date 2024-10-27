@@ -4,6 +4,8 @@ main: naeng\SkinGround\SkinGround
 version: 1.2.0
 api: 5.0.0
 depend:
-  - SqlCore
+  - XuidCore
+  - CooltimeCore
 virions:
   - SOF3/await-generator/master
+  - RICHMCBE/ExceptionLogger
