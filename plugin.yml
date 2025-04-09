@@ -8,4 +8,4 @@ depend:
   - CooltimeCore
 virions:
   - SOF3/await-generator/master
-  - RICHMCBE/ExceptionLogger
+  - RICHMCBE/ExceptionLogger/v1.1.2
